@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "708896777694",
+    "firebase_url": "https://remonter-9946e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "remonter-9946e",
+    "storage_bucket": "remonter-9946e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708896777694:android:209092c839a55a56f7e94f",
+        "android_client_info": {
+          "package_name": "com.example.remonterv3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708896777694-r2b69sd7bcui985vbvpqcf9nit60ccki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7hl35ux4JSANUe_ulxksQkD5lmZh26g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708896777694-r2b69sd7bcui985vbvpqcf9nit60ccki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708896777694:android:0b81fc081151fd1af7e94f",
+        "android_client_info": {
+          "package_name": "com.example.remonterv4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708896777694-r2b69sd7bcui985vbvpqcf9nit60ccki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7hl35ux4JSANUe_ulxksQkD5lmZh26g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708896777694-r2b69sd7bcui985vbvpqcf9nit60ccki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708896777694:android:60e3731e3af5c69af7e94f",
+        "android_client_info": {
+          "package_name": "com.example.remonterv5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708896777694-r2b69sd7bcui985vbvpqcf9nit60ccki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7hl35ux4JSANUe_ulxksQkD5lmZh26g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708896777694-r2b69sd7bcui985vbvpqcf9nit60ccki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708896777694:android:4fd54e3730a240c5f7e94f",
+        "android_client_info": {
+          "package_name": "com.example.remonterv7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708896777694-r2b69sd7bcui985vbvpqcf9nit60ccki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-7hl35ux4JSANUe_ulxksQkD5lmZh26g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708896777694-r2b69sd7bcui985vbvpqcf9nit60ccki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
